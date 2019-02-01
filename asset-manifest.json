@@ -1,14 +1,14 @@
 {
-  "main.css": "/freestylelanding/static/css/main.d5b9cc2e.chunk.css",
-  "main.js": "/freestylelanding/static/js/main.a16e4f59.chunk.js",
-  "main.js.map": "/freestylelanding/static/js/main.a16e4f59.chunk.js.map",
-  "static/js/1.fa92c112.chunk.js": "/freestylelanding/static/js/1.fa92c112.chunk.js",
-  "static/js/1.fa92c112.chunk.js.map": "/freestylelanding/static/js/1.fa92c112.chunk.js.map",
+  "main.css": "/freestylelanding/static/css/main.ba7f9f00.chunk.css",
+  "main.js": "/freestylelanding/static/js/main.019d2ae3.chunk.js",
+  "main.js.map": "/freestylelanding/static/js/main.019d2ae3.chunk.js.map",
+  "static/js/1.adea4e1e.chunk.js": "/freestylelanding/static/js/1.adea4e1e.chunk.js",
+  "static/js/1.adea4e1e.chunk.js.map": "/freestylelanding/static/js/1.adea4e1e.chunk.js.map",
   "runtime~main.js": "/freestylelanding/static/js/runtime~main.17c8345c.js",
   "runtime~main.js.map": "/freestylelanding/static/js/runtime~main.17c8345c.js.map",
   "static/media/logo.svg": "/freestylelanding/static/media/logo.5d5d9eef.svg",
-  "static/css/main.d5b9cc2e.chunk.css.map": "/freestylelanding/static/css/main.d5b9cc2e.chunk.css.map",
+  "static/css/main.ba7f9f00.chunk.css.map": "/freestylelanding/static/css/main.ba7f9f00.chunk.css.map",
   "index.html": "/freestylelanding/index.html",
-  "precache-manifest.3b1518cb0f9b28acd4d5c86c8b29ba99.js": "/freestylelanding/precache-manifest.3b1518cb0f9b28acd4d5c86c8b29ba99.js",
+  "precache-manifest.11c0120c28fd6c2521e5b785c423b55c.js": "/freestylelanding/precache-manifest.11c0120c28fd6c2521e5b785c423b55c.js",
   "service-worker.js": "/freestylelanding/service-worker.js"
 }
