@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "bb74f218e261486a27e1",
+    "revision": "a16e4f59a60fd60782fe",
     "url": "/freestylelanding/static/css/main.d5b9cc2e.chunk.css"
   },
   {
-    "revision": "bb74f218e261486a27e1",
-    "url": "/freestylelanding/static/js/main.bb74f218.chunk.js"
+    "revision": "a16e4f59a60fd60782fe",
+    "url": "/freestylelanding/static/js/main.a16e4f59.chunk.js"
   },
   {
     "revision": "fa92c112869d3657d47b",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/freestylelanding/static/media/logo.5d5d9eef.svg"
   },
   {
-    "revision": "52a29b6411add07401a99b4ce1065246",
+    "revision": "772447919924be46cd6a1e63537b55e5",
     "url": "/freestylelanding/index.html"
   }
 ];

@@ -1,7 +1,7 @@
 {
   "main.css": "/freestylelanding/static/css/main.d5b9cc2e.chunk.css",
-  "main.js": "/freestylelanding/static/js/main.bb74f218.chunk.js",
-  "main.js.map": "/freestylelanding/static/js/main.bb74f218.chunk.js.map",
+  "main.js": "/freestylelanding/static/js/main.a16e4f59.chunk.js",
+  "main.js.map": "/freestylelanding/static/js/main.a16e4f59.chunk.js.map",
   "static/js/1.fa92c112.chunk.js": "/freestylelanding/static/js/1.fa92c112.chunk.js",
   "static/js/1.fa92c112.chunk.js.map": "/freestylelanding/static/js/1.fa92c112.chunk.js.map",
   "runtime~main.js": "/freestylelanding/static/js/runtime~main.17c8345c.js",
@@ -9,6 +9,6 @@
   "static/media/logo.svg": "/freestylelanding/static/media/logo.5d5d9eef.svg",
   "static/css/main.d5b9cc2e.chunk.css.map": "/freestylelanding/static/css/main.d5b9cc2e.chunk.css.map",
   "index.html": "/freestylelanding/index.html",
-  "precache-manifest.b85b26e6d88329e1e769e7705f5e7b21.js": "/freestylelanding/precache-manifest.b85b26e6d88329e1e769e7705f5e7b21.js",
+  "precache-manifest.3b1518cb0f9b28acd4d5c86c8b29ba99.js": "/freestylelanding/precache-manifest.3b1518cb0f9b28acd4d5c86c8b29ba99.js",
   "service-worker.js": "/freestylelanding/service-worker.js"
 }
