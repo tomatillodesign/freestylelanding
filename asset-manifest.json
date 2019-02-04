@@ -1,14 +1,14 @@
 {
-  "main.css": "/freestylelanding/static/css/main.c232f9d7.chunk.css",
-  "main.js": "/freestylelanding/static/js/main.50d94a2e.chunk.js",
-  "main.js.map": "/freestylelanding/static/js/main.50d94a2e.chunk.js.map",
-  "static/js/1.adea4e1e.chunk.js": "/freestylelanding/static/js/1.adea4e1e.chunk.js",
-  "static/js/1.adea4e1e.chunk.js.map": "/freestylelanding/static/js/1.adea4e1e.chunk.js.map",
+  "main.css": "/freestylelanding/static/css/main.faf48077.chunk.css",
+  "main.js": "/freestylelanding/static/js/main.86af8a42.chunk.js",
+  "main.js.map": "/freestylelanding/static/js/main.86af8a42.chunk.js.map",
+  "static/js/1.35d49673.chunk.js": "/freestylelanding/static/js/1.35d49673.chunk.js",
+  "static/js/1.35d49673.chunk.js.map": "/freestylelanding/static/js/1.35d49673.chunk.js.map",
   "runtime~main.js": "/freestylelanding/static/js/runtime~main.17c8345c.js",
   "runtime~main.js.map": "/freestylelanding/static/js/runtime~main.17c8345c.js.map",
-  "static/media/logo.svg": "/freestylelanding/static/media/logo.5d5d9eef.svg",
-  "static/css/main.c232f9d7.chunk.css.map": "/freestylelanding/static/css/main.c232f9d7.chunk.css.map",
+  "static/media/App.css": "/freestylelanding/static/media/backgroundImage.b16ec824.jpg",
+  "static/css/main.faf48077.chunk.css.map": "/freestylelanding/static/css/main.faf48077.chunk.css.map",
   "index.html": "/freestylelanding/index.html",
-  "precache-manifest.8289574dcc9762b82d58234fb301f65f.js": "/freestylelanding/precache-manifest.8289574dcc9762b82d58234fb301f65f.js",
+  "precache-manifest.4d6a3153b33ace2f7ed790daae8cfff0.js": "/freestylelanding/precache-manifest.4d6a3153b33ace2f7ed790daae8cfff0.js",
   "service-worker.js": "/freestylelanding/service-worker.js"
 }

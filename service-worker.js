@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/freestylelanding/precache-manifest.8289574dcc9762b82d58234fb301f65f.js"
+  "/freestylelanding/precache-manifest.4d6a3153b33ace2f7ed790daae8cfff0.js"
 );
 
 workbox.clientsClaim();
