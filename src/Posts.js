@@ -1,11 +1,10 @@
 import React, { Component } from 'react';
 import './App.css';
-import ComplexCard from './ComplexCard.js';
+import ComplexPostCard from './ComplexPostCard.js';
 
 let website = 'https://freestyleadventuretravel.com';
-let dateNow = Math.floor( Date.now() / 1000 );
 
-class Cards extends Component {
+class Posts extends Component {
 
     constructor() {
     super();
@@ -16,8 +15,7 @@ class Cards extends Component {
             //dataRoute: website + '/wp-json/wp/v2/trips?specials=111',
             //dataRoute: website + '/wp-json/wp/v2/trips?specials=111&orderby=title&order=asc&start_date_php=1547251200',
             //dataRoute: website + '/wp-json/wp/v2/trips?specials=111&per_page=3',
-            //dataRoute: website + '/wp-json/wp/v2/posts?per_page=3',
-            dataRoute: website + '/wp-json/wp/v2/trips?&per_page=3&specials=111&filter[meta_key]=start_date_php&filter[meta_value]=' + dateNow + '&filter[meta_compare]=%3E',
+            dataRoute: website + '/wp-json/wp/v2/posts?per_page=3',
         }
 
     }
@@ -41,14 +39,15 @@ class Cards extends Component {
           entryContent: post.content.rendered,
           title: post.title.rendered,
           link: post.link,
-          specialMessage: post.trip_meta_fields.special_message[0],
-          startDateRaw: post.trip_meta_fields.start_date_php[0],
-          endDateRaw: post.trip_meta_fields.end_date[0],
-          startingAt: post.trip_meta_fields.starting_at,
-          // specialMessage: '',
-          // startDateRaw: '',
-          // endDateRaw: '',
-          // startingAt: '',
+          // specialMessage: post.trip_meta_fields.special_message[0],
+          // startDateRaw: post.trip_meta_fields.start_date_php[0],
+          // endDateRaw: post.trip_meta_fields.end_date[0],
+          // startingAt: post.trip_meta_fields.starting_at,
+          specialMessage: '',
+          startDateRaw: '',
+          endDateRaw: '',
+          startingAt: '',
+          featuredMedia: post.jetpack_featured_media_url,
         }
     }
 
@@ -57,11 +56,11 @@ class Cards extends Component {
     render() {
 
         return (
-        <div className="cards">
+        <div className="Posts">
 
           {this.state.posts.map((post, index) =>
             <div className="clb-trip-card" key={`post-${post.id}}`}>
-                <ComplexCard index={index} link={post.link} entryTitle={post.title} date={post.date} entryExcerpt={post.entryExcerpt} entryContent={post.entryContent} entrySpecialMessage={post.specialMessage} entryStartDate={post.startDateRaw} entryEndDate={post.endDateRaw} startingAt={post.startingAt} />
+                <ComplexPostCard index={index} link={post.link} entryTitle={post.title} date={post.date} entryExcerpt={post.entryExcerpt} entryContent={post.entryContent} entrySpecialMessage={post.specialMessage} entryStartDate={post.startDateRaw} entryEndDate={post.endDateRaw} startingAt={post.startingAt} featuredMedia={post.featuredMedia} />
             </div>
           )}
 
@@ -72,4 +71,4 @@ class Cards extends Component {
 }
 
 
-export default Cards;
+export default Posts;
