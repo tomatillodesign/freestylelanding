@@ -17,7 +17,8 @@ class Cards extends Component {
             //dataRoute: website + '/wp-json/wp/v2/trips?specials=111&orderby=title&order=asc&start_date_php=1547251200',
             //dataRoute: website + '/wp-json/wp/v2/trips?specials=111&per_page=3',
             //dataRoute: website + '/wp-json/wp/v2/posts?per_page=3',
-            dataRoute: website + '/wp-json/wp/v2/trips?&per_page=3&specials=111&filter[meta_key]=start_date_php&filter[meta_value]=' + dateNow + '&filter[meta_compare]=%3E',
+            //dataRoute: website + '/wp-json/wp/v2/trips?&per_page=3&specials=111&filter[meta_key]=start_date_php&filter[meta_value]=' + dateNow + '&filter[meta_compare]=%3E',
+            dataRoute: website + '/wp-json/wp/v2/trips?&per_page=3&specials=206&filter[meta_key]=start_date_php&filter[meta_value]=' + dateNow + '&filter[meta_compare]=%3E',
         }
 
     }
