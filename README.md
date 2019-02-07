@@ -1,6 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Last updated Thu Feb 7, 2019
+Favicon updated
 
 ## Available Scripts
 
