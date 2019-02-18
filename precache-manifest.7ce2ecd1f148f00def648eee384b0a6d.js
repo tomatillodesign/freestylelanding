@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/freestylelanding/static/media/landing-background-blur-10px.5efe113c.jpg"
   },
   {
-    "revision": "b85675132654ed296dc016f9df42ca57",
+    "revision": "f01b224208bc679b43f2741f5e83c413",
     "url": "/freestylelanding/index.html"
   }
 ];
